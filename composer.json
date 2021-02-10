@@ -1,5 +1,5 @@
 {
-    "name": "kjantzer/liquidmetal-php",
+    "name": "webdevel/liquidmetal-php",
     "type": "library",
     "description": "LiquidMetal is a PHP port of liquidmetal.js, a Quicksilver-inspiried scoring algorithm.",
     "authors": [

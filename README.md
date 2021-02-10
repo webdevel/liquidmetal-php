@@ -20,3 +20,10 @@ Score any string against an abbreviation:
     LiquidMetal::score("Foo Bar", "");      //=> 0.8
 
 All scores fall between a range of 0.0 (no match) to 1.0 (perfect match).
+
+## Originators
+- **[Kevin Jantzer](https://github.com/kjantzer)** [liquidmetal-php](https://github.com/kjantzer/liquidmetal-php)
+- **[Ryan McGeary](http://ryan.mcgeary.org/)**
+
+## License
+*LiquidMetal* is free and open source software by [MIT License](LICENSE).
